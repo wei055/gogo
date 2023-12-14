@@ -1,2 +1,2 @@
 # wade
-Java Server Side
+Let's start from something simple
